@@ -1,0 +1,30 @@
+[
+  {
+    "cpf": "",
+    "nome_pessoa": "",
+    "endereco": {
+      "logradouro": "",
+      "num_casa": "",
+      "cep": "",
+      "uf": ""
+    },
+    "senha": ""
+  },
+  {
+    "cpf": "12345678910",
+    "nome_pessoa": "Felipe",
+    "endereco": {
+      "logradouro": "Rua A",
+      "num_casa": "15",
+      "cep": "37600000",
+      "uf": "MG"
+    },
+    "senha": "1998",
+    "saldo": 2350.0,
+    "extrato": [
+      "Depósito: +R$ 1850.00",
+      "Depósito: +R$ 100.00",
+      "Saque: -R$ 100.00"
+    ]
+  }
+]
